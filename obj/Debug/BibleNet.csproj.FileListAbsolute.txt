@@ -1,0 +1,26 @@
+D:\Humosoft 1.0\WinForms\Libraries\BibleNet\bin\Debug\BibleNet.dll
+D:\Humosoft 1.0\WinForms\Libraries\BibleNet\bin\Debug\BibleNet.pdb
+D:\Humosoft 1.0\WinForms\Libraries\BibleNet\obj\Debug\BibleNet.dll
+D:\Humosoft 1.0\WinForms\Libraries\BibleNet\obj\Debug\BibleNet.pdb
+D:\Humosoft 1.0\WinForms\Libraries\Bible Net\bin\Debug\BibleNet.Net.XML
+D:\Humosoft 1.0\WinForms\Libraries\Bible Net\bin\Debug\BibleNet.Net.dll
+D:\Humosoft 1.0\WinForms\Libraries\Bible Net\bin\Debug\BibleNet.Net.pdb
+D:\Humosoft 1.0\WinForms\Libraries\Bible Net\obj\Debug\BibleNet.csprojResolveAssemblyReference.cache
+D:\Humosoft 1.0\WinForms\Libraries\Bible Net\obj\Debug\BibleNet.Net.dll
+D:\Humosoft 1.0\WinForms\Libraries\Bible Net\obj\Debug\BibleNet.Net.pdb
+G:\Software Development\Humosoft 1.0\Componets\CS\Componets\Bible Net\bin\Debug\BibleNet.Net.XML
+G:\Software Development\Humosoft 1.0\Componets\CS\Componets\Bible Net\bin\Debug\BibleNet.Net.pdb
+G:\Software Development\Humosoft 1.0\Componets\CS\Componets\Bible Net\obj\Debug\BibleNet.Net.pdb
+G:\Software Development\Humosoft 1.0\Componets\CS\Componets\Bible Net\bin\Debug\BibleNet.Net.dll
+G:\Software Development\Humosoft 1.0\Componets\CS\Componets\Bible Net\obj\Debug\BibleNet.Net.dll
+G:\Software Development\Humosoft 1.5\Binaries\Bible Net\bin\Debug\BibleNet.Net.XML
+G:\Software Development\Humosoft 1.5\Binaries\Bible Net\bin\Debug\BibleNet.Net.dll
+G:\Software Development\Humosoft 1.5\Binaries\Bible Net\bin\Debug\BibleNet.Net.pdb
+G:\Software Development\Humosoft 1.5\Binaries\Bible Net\obj\Debug\BibleNet.Net.dll
+G:\Software Development\Humosoft 1.5\Binaries\Bible Net\obj\Debug\BibleNet.Net.pdb
+D:\Humosoft 1.5\Binaries\Bible Net\bin\Debug\BibleNet.Net.XML
+D:\Humosoft 1.5\Binaries\Bible Net\bin\Debug\BibleNet.Net.pdb
+D:\Humosoft 1.5\Binaries\Bible Net\obj\Debug\BibleNet.csprojResolveAssemblyReference.cache
+D:\Humosoft 1.5\Binaries\Bible Net\obj\Debug\BibleNet.Net.pdb
+D:\Humosoft 1.5\Binaries\Bible Net\bin\Debug\BibleNet.Net.exe
+D:\Humosoft 1.5\Binaries\Bible Net\obj\Debug\BibleNet.Net.exe
